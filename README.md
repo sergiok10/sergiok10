@@ -36,6 +36,7 @@ my_jutsu = {
 - [Hospital Management System](https://github.com/sergiok10/Hospital-Management-System---HMS)
 - [Telegram Bot Search Engine](https://github.com/sergiok10/telegram_bot_search_engine)
 - [Closed AI](https://github.com/sergiok10/Closed_AI)
+- [Real Estate Checklist Tracker](https://github.com/sergiok10/cs673team1-real-estate-checklist-tracker)
 
 ### 📫 How to Reach Me
 
