@@ -19,7 +19,7 @@
 ```python
 my_jutsu = {
     "languages": ["Python", "JavaScript", "Java", C#],
-    "frameworks": ["React","Springboot", Camunda BPM, Flutter],
+    "frameworks": ["React","Springboot", "Camunda BPM", "Flutter"],
     "tools": ["Git", "Figma", "Jira"],
     "databases": ["MongoDB", "MySQL"],
 }
