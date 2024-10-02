@@ -12,7 +12,6 @@
 
 - 💤 Professional nap taker and cloud watcher
 - 🎲 Strategic thinker, always 200 steps ahead (when I feel like it)
-- 🍃 Konoha's laziest ninja, GitHub's most sporadic contributor
 
 ### 🕹️ My Jutsu (Skills)
 
