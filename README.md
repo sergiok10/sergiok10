@@ -1,9 +1,3 @@
-# What a drag... another visitor to my profile 😪
-
-<div align="center">
-  <img src="https://64.media.tumblr.com/dc2fb74e1bedcae221342e3b7fee50f2/tumblr_ona34jBzbT1udozn0o1_500.gif" alt="Shikamaru thinking" width="200"/>
-</div>
-
 ## 👋 Hey there, I'm Sergio Khalil
 
 > "Laziness is the mother of all bad habits, but ultimately she is a mother and we should respect her." - Shikamaru Nara (probably)
