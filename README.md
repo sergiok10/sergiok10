@@ -39,14 +39,7 @@ Here are some of the projects that showcase my technical skills and problem-solv
 
 ### 📫 Connect with Me
 
-I'm open to new opportunities in software development, collaboration on interesting projects, or tech discussions.
-
 - 📧 Email: [khalil.sergio@hotmail.com](mailto:khalil.sergio@hotmail.com)
 - 💼 LinkedIn: [linkedin.com/in/sergiokhalil]
 
----
-
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." - Cory House</i>
-</div>
 
