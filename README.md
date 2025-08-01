@@ -1,11 +1,5 @@
 ## 👋 Hello, I'm Sergio Khalil
 
-### 💼 Software Developer | Problem Solver | Tech Enthusiast
-
-Passionate about building innovative software solutions that enhance efficiency and user experience. With expertise in full-stack development, I specialize in designing and implementing scalable applications using modern technologies. I am always eager to learn, collaborate, and take on new challenges in the tech industry.
-
----
-
 ### 🚀 Skills & Technologies
 
 ```python
