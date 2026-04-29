@@ -34,6 +34,6 @@ Here are some of the projects that showcase my technical skills and problem-solv
 ### 📫 Connect with Me
 
 - 📧 Email: [khalil.sergio@hotmail.com](mailto:khalil.sergio@hotmail.com)
-- 💼 LinkedIn: [linkedin.com/in/sergiokhalil]
+- 💼 LinkedIn:[Sergio Khalil](linkedin.com/in/sergiokhalil)
 
 
